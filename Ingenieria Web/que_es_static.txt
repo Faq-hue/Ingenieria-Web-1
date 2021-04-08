@@ -1,0 +1,2 @@
+Todo lo que es declarado como static son inicializados en el momento que se carga la memoria, siguiendo el orden de declaracion.
+Static sirve para hacer que un metodo, clase o campo pueda ser accedido o invocado sin tener que instanciar un objeto de la clase.

@@ -1,0 +1,16 @@
+¿Que es JAVA?
+JAVA es un lenguaje de programación comercializado en 1995, de estructura sencilla que es utilizado en muchos dispositivos, como computadoras, celulares, consolas, etc. JAVA fue desarrollado por James Gosling. 
+
+¿Para que sirve?
+Con JAVA se pueden crear aplicaciones o procesos en los dispositivos que sea compatible.
+
+¿Que paradigmas de programación existen?
+Un paradigma de programación es una manera o estilo de programar. Los principales paradigmas son:
+-imperativo: El programador usa comandos para hacer que la computadora realice ciertas acciones.
+-declarativo: El programa da los resultados sin mostrar los pasos para llegar a ellos.
+-lógico: El programa se modela con la lógica de primer orden.
+-funcional: El programa contiene funciones, que reciben un dato de entrada y devuelve un resultado.
+-orientado a objetos: El programa tiene objetos que representan elementos del problema a resolver.
+
+¿Que paradigmas soporta JAVA?
+Orientado a objetos e imperativo.

@@ -1,0 +1,27 @@
+{
+"nombre" : "Tomas",
+"apellido" : "Sanabria",
+"empresa" : "Rexona",
+"cargo" : "Chofer",
+"archivo" : "TomasSanabria@gmail.com",
+"telefono" : "351957474",
+"notas" : "nota1"
+},
+{
+"nombre" : "Milagros",
+"apellido" : "Ikari",
+"empresa" : "SpaceX",
+"cargo" : "Administrador",
+"archivo" : "MilagrosIkari@gmail.com",
+"telefono" : "351660992",
+"notas" : ""
+},
+{
+"nombre" : "Camila",
+"apellido" : "Zamora",
+"empresa" : "Fiat",
+"cargo" : "Ingeniero",
+"archivo" : "CamilaZamora@gmail.com",
+"telefono" : "351971605",
+"notas" : ""
+}
